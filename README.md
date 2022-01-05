@@ -1,3 +1,5 @@
+🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈
+
 # Merkle Airdrop Starter
 
 Quickly bootstrap an ERC20 token airdrop to a Merkle tree of recipients.
